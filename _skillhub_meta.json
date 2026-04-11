@@ -1,0 +1,13 @@
+{
+  "name": "Screenplay Writer",
+  "description": "Professional screenplay writing with Hollywood standards",
+  "description_zh": "璧勬繁褰辫缂栧墽锛氬ソ鑾卞潪鏍囧噯鍓ф湰鍒涗綔",
+  "keywords": ["screenplay", "script", "film", "鍓ф湰", "缂栧墽", "鐢靛奖"],
+  "category": "creative",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "version": "1.0.0",
+  "compatibility": {
+    "openclaw": ">=2026.4.0"
+  }
+}
