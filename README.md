@@ -1,15 +1,15 @@
-# Screenplay Writer - 资深影视编剧与剧本医生
+# Screenplay Writer & Script Doctor / 影视编剧与剧本医生
 
-![OpenClaw Skill](https://docs.openclaw.ai/images/skill-badge.svg)
+![分类](https://img.shields.io/badge/分类-创意工具-green)
 
-一个专业的影视剧本创作技能，将你的故事概念转化为符合好莱坞标准的文学剧本。
+## 项目简介
 
-## 🎬 技能概述
+专业的影视剧本创作技能，将故事概念转化为符合好莱坞标准的文学剧本。20年经验的资深编剧，精通好莱坞标准剧本格式、视听语言心理学、蒙太奇叙事技巧、人物弧光构建。核心能力是将平淡文字转化为画面感强、潜台词丰富、逻辑严密的剧本。
 
-作为拥有20年经验的资深电影编剧和剧本医生，这个技能精通：
-- **好莱坞标准剧本格式**
-- **视听语言心理学**  
-- **蒙太奇叙事技巧**
-- **人物弧光构建**
+## 许可证
 
-核心能力是将平淡的文字描述转化为具有强烈画面感、潜台词丰富、逻辑严密的文学剧本
+MIT License
+
+---
+
+更多项目请访问：[github.com/g3353534517-hue?tab=repositories](https://github.com/g3353534517-hue?tab=repositories)
